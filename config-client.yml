@@ -7,7 +7,7 @@ server:
 spring:
   application:
     name: spring-cloud-config-client
-  profile:dev
+  profile: dev
 
 eureka:
   client:
